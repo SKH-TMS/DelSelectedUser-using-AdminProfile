@@ -15,6 +15,13 @@ Repositry Number: T20
 ### Version 0 (v0)
 
 - no glables.css
+- without modules
+- not tested, **userType** should be in token. it is done in **UdateRepository**.
+
+### Version 1 (v1)
+
+- **Problem in V0:** database connection and collection's name are used in every file, due to absence of model.
+- Use model and solve problem exists in version 0.
 
 ## How to Run:
 
